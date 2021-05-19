@@ -1,0 +1,17 @@
+C:\Users\studi\Practice\Git\GitTesting\bin\Debug\GitTesting.exe.config
+C:\Users\studi\Practice\Git\GitTesting\bin\Debug\GitTesting.exe
+C:\Users\studi\Practice\Git\GitTesting\bin\Debug\GitTesting.pdb
+C:\Users\studi\Practice\Git\GitTesting\bin\Debug\GitTesting.xml
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.vbprojAssemblyReference.cache
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\MainWindow.g.vb
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\Application.g.vb
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting_MarkupCompile.cache
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting_MarkupCompile.lref
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\MainWindow.baml
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.g.resources
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.Resources.resources
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.vbproj.GenerateResource.cache
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.vbproj.CoreCompileInputs.cache
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.exe
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.xml
+C:\Users\studi\Practice\Git\GitTesting\obj\Debug\GitTesting.pdb
